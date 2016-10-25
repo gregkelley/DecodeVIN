@@ -1,0 +1,10 @@
+<resources>
+    <string name="textView"></string>
+    <string name="app_name">DecodeVIN</string>
+    <string name="btnSend">Decode VIN</string>
+    <string name="textVIN">Enter your VIN to decode</string>
+    <string name="vehicle_make">Make:</string>
+    <string name="vehicle_model">Model:</string>
+    <string name="vehicle_year">Year:</string>
+    <string name="make">make</string>
+</resources>

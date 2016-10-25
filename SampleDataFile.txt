@@ -1,0 +1,116 @@
+Group Name,Element,Value
+,Suggested VIN,
+,Error Code,0 - VIN decoded clean. Check Digit (9th position) is correct
+,Possible Values,
+,Additional Error Text,
+Active Safety System,Driver Assist,
+Active Safety System,Adaptive Cruise Control,
+Active Safety System,Adaptive Headlights,
+Active Safety System,Anti-lock Braking System (ABS),
+Active Safety System,Auto Brake / Auto Emergency Braking,
+Active Safety System,Blind Spot Monitoring / Detection,
+Active Safety System,Electronic Stability Control (ESC),
+Active Safety System,Traction Control,
+Active Safety System,Forward Collision Warning,
+Active Safety System,Lane Departure Warning,
+Active Safety System,Lane Keep System,
+Active Safety System,Rear Visibility Camera,
+Active Safety System,Park Assist,
+Engine,Engine Number of Cylinders,6
+Engine,Displacement (CC),3800.0
+Engine,Displacement (CI),231.89022755998
+Engine,Displacement (L),3.8
+Engine,Engine Stroke Cycles,
+Engine,Engine Model,L36
+Engine,Engine Power (KW),
+Engine,Fuel Type - Primary,
+Engine,Valve Train Design,Overhead Valve (OHV)
+Engine,Engine Configuration,V-Shaped
+Engine,Fuel Type - Secondary,
+Engine,Fuel Delivery / Fuel Injection Type,Sequential Fuel Injection (SFI)
+Engine,Engine Brake (hp),
+Engine,Cooling Type,
+Engine,Engine Brake (hp) up to,
+Engine,Electrification Level,
+Engine,Other Engine Info,Name Plate: Chevrolet; Pontiac; Buick
+Engine,Turbo,
+Engine,Top Speed (MPH),
+Engine,Engine Manufacturer,GMPTG Flint
+Exterior / Body,Body Class,Sedan/Saloon
+Exterior / Body,Doors,4
+Exterior / Body,Windows,4
+Exterior / Body,Wheel Base Type,
+Exterior / Body,Track Width,
+Exterior / Bus,Bus Length (feet),
+Exterior / Bus,Bus Floor Configuration Type,
+Exterior / Bus,Bus Type,
+Exterior / Bus,Other Bus Info,
+Exterior / Dimension,Gross Vehicle Weight Rating,
+Exterior / Dimension,Bed Length (inches),
+Exterior / Dimension,Curb Weight (pounds),
+Exterior / Dimension,Wheel Base (inches),
+Exterior / Dimension,Wheel Base (inches) up to,
+Exterior / Motorcycle,Custom Motorcycle Type,
+Exterior / Motorcycle,Motorcycle Suspension Type,
+Exterior / Motorcycle,Motorcycle Chassis Type,
+Exterior / Motorcycle,Other Motorcycle Info,
+Exterior / Trailer,Trailer Type Connection,
+Exterior / Trailer,Trailer Body Type,
+Exterior / Trailer,Trailer Length (feet),
+Exterior / Trailer,Other Trailer Info,
+Exterior / Truck,Bed Type,
+Exterior / Truck,Cab Type,
+Exterior / Wheel tire,Number of Wheels,
+Exterior / Wheel tire,Wheel Size Front (inches),
+Exterior / Wheel tire,Wheel Size Rear (inches),
+General,Destination Market,
+General,Make,CHEVROLET
+General,Manufacturer Name,GENERAL MOTORS LLC
+General,Model,Impala
+General,Model Year,2000
+General,Plant City,Oshawa #1
+General,Series,LS
+General,Trim,
+General,Vehicle Type,PASSENGER CAR
+General,Plant Country,Canada
+General,Plant Company Name,NA-GM Corp
+General,Plant State,Ontario
+General,Trim2,
+General,Series2,
+General,Note,Body Type: Sedan; 4-6 Window; Notchback (GM codes: 19; 69)
+General,Base Price ($),
+General,Manufacturer Id,984
+General,Cash For Clunkers,
+Interior,Entertainment System,
+Interior,Steering Location,
+Interior / Seat,Number of Seats,
+Interior / Seat,Number of Seat Rows,
+Mechanical / Battery,Battery Info,
+Mechanical / Battery,Battery Type,
+Mechanical / Battery,Number of Battery Cells per Module,
+Mechanical / Battery,Battery Current (Amps),
+Mechanical / Battery,Battery Voltage (Volts),
+Mechanical / Battery,Battery Energy (KWh),
+Mechanical / Battery,EV Drive Unit,
+Mechanical / Battery,Battery Current (Amps) up to,
+Mechanical / Battery,Battery Voltage (Volts) up to,
+Mechanical / Battery,Battery Energy (KWh) up to,
+Mechanical / Battery,Number of Battery Modules per Pack,
+Mechanical / Battery,Number of Battery Packs per Vehicle,
+Mechanical / Battery / Charger,Charger Level,
+Mechanical / Battery / Charger,Charger Power (KW),
+Mechanical / Brake,Brake System Type,
+Mechanical / Brake,Brake System Description,
+Mechanical / Drivetrain,Drive Type,
+Mechanical / Drivetrain,Axles,
+Mechanical / Drivetrain,Axle Configuration,
+Mechanical / Transmission,Transmission Style,
+Mechanical / Transmission,Transmission Speeds,
+Passive Safety System,Pretensioner,
+Passive Safety System,Seat Belts Type,Manual
+Passive Safety System,Other Restraint System Info,
+Passive Safety System / Air Bag Location,Curtain Air Bag Locations,
+Passive Safety System / Air Bag Location,Seat Cushion Air Bag Locations,
+Passive Safety System / Air Bag Location,Front Air Bag Locations,1st Row (Driver & Passenger)
+Passive Safety System / Air Bag Location,Knee Air Bag Locations,
+Passive Safety System / Air Bag Location,Side Air Bag Locations,Driver Seat Only
